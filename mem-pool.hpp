@@ -60,7 +60,7 @@ struct mem_unit {
 	}
 };
 const int Moha = 33331;
-const int K = 1926;
+const int K = 1526;
 class buffer_pool {
 private:
 	mem_unit *mem[K];
